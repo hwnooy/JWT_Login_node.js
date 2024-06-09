@@ -1,0 +1,35 @@
+{
+  "name": "jwt_login",
+  "version": "1.0.0",
+  "description": "for login and register",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hwnooy/JWT_Login_node.js.git"
+  },
+  "keywords": [
+    "jwt"
+  ],
+  "author": "heeju",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hwnooy/JWT_Login_node.js/issues"
+  },
+  "homepage": "https://github.com/hwnooy/JWT_Login_node.js#readme",
+  "dependencies": {
+    "@prisma/client": "^5.15.0",
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^1.20.2",
+    "express": "^4.19.2",
+    "jsonwebtoken": "^9.0.2",
+    "passport": "^0.7.0",
+    "passport-jwt": "^4.0.1"
+  },
+  "devDependencies": {
+    "dotenv": "^16.4.5",
+    "prisma": "^5.15.0"
+  }
+}
