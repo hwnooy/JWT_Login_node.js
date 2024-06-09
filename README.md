@@ -9,4 +9,7 @@ npx prisma init <br>
 
 ![image](https://github.com/hwnooy/JWT_Login_node.js/assets/93791124/418a683c-07f6-4304-accb-d0e760ff61d6)
 
-[참고] https://velog.io/@iamhayoung/prisma-schema 
+[참고] <br>
+https://velog.io/@iamhayoung/prisma-schema  <br>
+https://www.prisma.io/docs/getting-started <br>
+
